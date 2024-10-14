@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub Profile!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/bautistatordini) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautistatordini) 
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com/)-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanbautistatoridni@gmail.com)
 
 ## 👋 About Me
@@ -34,11 +34,11 @@ Here are some of the tools and technologies that I use in my development journey
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bautistatordini&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bautistatordini&theme=radical" alt="GitHub Streak" width="48%" />
+</p> -->
 
 <!-- ## 📂 Featured Projects
 Here are some of my favorite projects that I have worked on:
@@ -48,14 +48,12 @@ Here are some of my favorite projects that I have worked on:
 
 ## 🌍 Connect with Me
 I'm always open to collaborating on interesting projects or discussing new ideas! Feel free to reach out to me through the links below:
-- [LinkedIn](https://www.linkedin.com/bautistatordini)
+- [LinkedIn](https://www.linkedin.com/in/bautistatordini)
 - [Email](mailto:juanbautistatoridni@gmail.com)
-<!-- - [Portfolio](https://yourportfolio.com/) -->
+<!-- - [Portfolio](https://yourportfolio.com/)-->
 
 ## 🔥 Fun Fact
 I enjoy debugging and consider solving complex coding problems as fun puzzles! 🧩
 
 ---
 ⭐️ Feel free to explore my repositories and star any projects you find interesting!
-
-
